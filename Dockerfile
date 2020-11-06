@@ -1,3 +1,3 @@
 FROM ibmcom/mq
 
-COPY mqsc.conf /etc/mqm/mqsc.conf
+COPY config.mqsc /etc/mqm/config.mqsc
